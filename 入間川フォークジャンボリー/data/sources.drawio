@@ -1,0 +1,67 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Title -->
+    <mxCell id="title" value="情報源 信頼性分布" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="50" width="880" height="40" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 1 Section (Empty) -->
+    <mxCell id="tier1_sw" value="Tier 1: 公式情報・政府機関・法令 (0件)" style="swimlane;fontStyle=1;childLayout=none;horizontal=1;startSize=30;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;rounded=0;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="50" y="110" width="880" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="tier1_none" value="（該当なし）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="tier1_sw">
+      <mxGeometry x="0" y="30" width="880" height="30" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 2 Section -->
+    <mxCell id="tier2_sw" value="Tier 2: 高信頼・学術・企業・主要メディア (1件)" style="swimlane;fontStyle=1;childLayout=none;horizontal=1;startSize=30;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;rounded=0;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="50" y="190" width="880" height="110" as="geometry" />
+    </mxCell>
+    <mxCell id="t2_1" value="1960年代後半の学園闘争を考える&#10;[academic_paper] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="tier2_sw">
+      <mxGeometry x="20" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 3 Section -->
+    <mxCell id="tier3_sw" value="Tier 3: 参考・一般メディア・個人ブログ（専門家） (4件)" style="swimlane;fontStyle=1;childLayout=none;horizontal=1;startSize=30;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;rounded=0;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="50" y="320" width="880" height="180" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_1" value="★ 2026.3/15 (日) おこめx松しょう...&#10;[official_document] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#d6b656;fontColor=#333333;fontStyle=1;" vertex="1" parent="tier3_sw">
+      <mxGeometry x="20" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_2" value="ジョンソンタウン - Wikipedia&#10;[community_data] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#d6b656;fontColor=#333333;" vertex="1" parent="tier3_sw">
+      <mxGeometry x="300" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_3" value="★ 松しょうホームページ&#10;[official_document] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#d6b656;fontColor=#333333;fontStyle=1;" vertex="1" parent="tier3_sw">
+      <mxGeometry x="580" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t3_4" value="★ （私の知るところの）松しょうプロフィール&#10;[official_document] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#d6b656;fontColor=#333333;fontStyle=1;" vertex="1" parent="tier3_sw">
+      <mxGeometry x="20" y="110" width="260" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Tier 4 Section -->
+    <mxCell id="tier4_sw" value="Tier 4: コミュニティ・SNS・不明 (6件)" style="swimlane;fontStyle=1;childLayout=none;horizontal=1;startSize=30;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;rounded=0;shadow=0;" vertex="1" parent="1">
+      <mxGeometry x="50" y="520" width="880" height="180" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_1" value="Web検索・フォーク音楽関連データベース&#10;[unknown] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="20" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_2" value="入間サウンドヘヴンのあゆみ - ゆっこらんど&#10;[community_data] Refs: 14" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;strokeWidth=3;fontStyle=1;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="300" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_3" value="★ 入間サウンドヘヴンのあゆみ&#10;[community_data] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;fontStyle=1;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="580" y="40" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_4" value="全日本フォークジャンボリー - Wikipedia&#10;[community_data] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="20" y="110" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_5" value="故きを温ねる公園と新しきを知る公園...&#10;[community_data] Refs: 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="300" y="110" width="260" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="t4_6" value="★ 松しょう（公認?） ホームページ&#10;[community_data] Refs: 2" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=left;verticalAlign=top;spacing=10;fillColor=#ffffff;strokeColor=#b85450;fontColor=#333333;fontStyle=1;" vertex="1" parent="tier4_sw">
+      <mxGeometry x="580" y="110" width="260" height="60" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

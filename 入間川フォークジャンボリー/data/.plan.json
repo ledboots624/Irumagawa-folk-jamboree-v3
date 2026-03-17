@@ -1,0 +1,47 @@
+{
+  "topic": "入間川フォークジャンボリー",
+  "description": "入間川フォークジャンボリーの歴史を発起人・松しょう氏を軸に網羅的に調査し、関係者・ファンと共有できる記録として体系化する",
+  "generated_by": "planner",
+  "steps": [
+    {
+      "id": "step1-basic-gathering",
+      "step": 1,
+      "role": "information-gathering",
+      "model": "gemini-3-pro-preview",
+      "prompt_focus": "松しょう氏の公式サイト(https://matsu-sho.net/)や関連ブログ、SNS、過去のイベント記録から、入間川フォークジャンボリーの開催履歴（日時・場所・出演者）、松しょう氏の発言・思想、活動歴（「松仲良」名義含む）を網羅的に収集する。特に2026年3月の直近ライブ情報や第1回開催の経緯に関する記述を重点的に探す。",
+      "depends_on": []
+    },
+    {
+      "id": "step2-context-gathering",
+      "step": 2,
+      "role": "information-gathering",
+      "model": "gemini-3-pro-preview",
+      "prompt_focus": "1960-70年代の日本のフォーク運動や学生運動の潮流、および埼玉県入間市の地域的・文化的背景（「新しきを知る公園」の歴史的背景や地域コミュニティの特性）を調査する。中津川フォークジャンボリー等の他フェスとの関係性や影響関係についても周辺情報を補完する。",
+      "depends_on": ["step1-basic-gathering"]
+    },
+    {
+      "id": "step3-deep-analysis",
+      "step": 3,
+      "role": "deep-analysis",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "収集した情報を元に、入間川フォークジャンボリーの時系列年表を構築し、松しょう氏の「アーティスト」「コミュニティ形成者」「記録者」としての3つの側面を分析する。また、出演者や協力者の相関関係からイベント継続の基盤となったネットワーク構造を可視化・分析する。",
+      "depends_on": ["step1-basic-gathering", "step2-context-gathering"]
+    },
+    {
+      "id": "step4-critic-review",
+      "step": 4,
+      "role": "critic-review",
+      "model": "claude-sonnet-4.6",
+      "prompt_focus": "ここまでの調査・分析結果に対し、情報の正確性と倫理的配慮を批判的にレビューする。特に「松永昭一」という誤った漢字表記が含まれていないか、推測に基づく記述が事実として扱われていないか（「推定」と明記されているか）、松しょう氏の人物像や思想がバイアスなく多角的に捉えられているかを厳密に検証する。",
+      "depends_on": ["step3-deep-analysis"]
+    },
+    {
+      "id": "step5-integration",
+      "step": 5,
+      "role": "integration-review",
+      "model": "claude-opus-4.6",
+      "prompt_focus": "全ての分析結果とレビュー結果を統合し、松しょう氏の友人・ファンに向けた親しみやすい文体で体系化された記録として出力する。エピソードを重視しつつ、歴史的・文化的意義を明確にし、確度の低い情報は慎重に区別して記述する。",
+      "depends_on": ["step4-critic-review"]
+    }
+  ]
+}

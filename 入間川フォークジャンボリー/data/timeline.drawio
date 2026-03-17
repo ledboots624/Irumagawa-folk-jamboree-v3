@@ -1,0 +1,68 @@
+<mxGraphModel dx="50" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    
+    <!-- Title -->
+    <mxCell id="2" value="入間川フォークジャンボリー 時系列年表 (1994-2008+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=10;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="60" width="700" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Group 1: 黎明期 -->
+    <mxCell id="3" value="黎明期：たった一人の「ジャンボリー」" style="group;fontStyle=1;fontSize=14;verticalAlign=top;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="160" width="700" height="180" as="geometry" />
+    </mxCell>
+    
+    <mxCell id="4" value="1994年2月&#10;【第1回開催】&#10;場所: 入間市駅「新しきを知る公園」野外ステージ&#10;人物: 松しょう (単独)&#10;エピソード: 観客ゼロからのスタート" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=5;shadow=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="3">
+      <mxGeometry x="40" y="40" width="620" height="100" as="geometry" />
+    </mxCell>
+
+    <!-- Group 2: 発展・定着期 -->
+    <mxCell id="5" value="発展期：仲間との出会いと定着" style="group;fontStyle=1;fontSize=14;verticalAlign=top;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="380" width="700" height="280" as="geometry" />
+    </mxCell>
+
+    <mxCell id="6" value="1990年代後半&#10;【協力者・出演者の拡大】&#10;ゆっこらんど氏ら、運営を支える仲間が参加&#10;地域コミュニティイベントとして定着" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;spacing=5;shadow=1;" vertex="1" parent="5">
+      <mxGeometry x="40" y="40" width="620" height="80" as="geometry" />
+    </mxCell>
+
+    <mxCell id="7" value="2000年代前半&#10;【安定開催期】&#10;月例イベントとして定着 (原則毎月開催)&#10;「入間サウンドヘヴン」への布石" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;spacing=5;shadow=1;" vertex="1" parent="5">
+      <mxGeometry x="40" y="160" width="620" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Group 3: 完結と継承 -->
+    <mxCell id="8" value="完結と継承：100回の伝説" style="group;fontStyle=1;fontSize=14;verticalAlign=top;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="700" width="700" height="400" as="geometry" />
+    </mxCell>
+
+    <mxCell id="9" value="2008年8月&#10;【第100回 入間川フォークジャンボリー (最終回)】&#10;14年間の歴史に幕を下ろす&#10;「100回」という区切りでの完結" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;spacing=5;shadow=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="8">
+      <mxGeometry x="40" y="40" width="620" height="80" as="geometry" />
+    </mxCell>
+
+    <mxCell id="10" value="2008年9月以降&#10;【後継イベント始動】&#10;「入間サウンドヘヴン」などへ精神を継承&#10;主催: ゆっこらんど氏ら" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=13;spacing=5;shadow=1;" vertex="1" parent="8">
+      <mxGeometry x="40" y="160" width="620" height="70" as="geometry" />
+    </mxCell>
+
+    <mxCell id="11" value="2026年3月15日&#10;【現在進行形の松しょう氏】&#10;場所: 入間市「新しきを知る公園」ステージ&#10;原点でのライブ活動継続" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;spacing=5;shadow=1;fontStyle=1;" vertex="1" parent="8">
+      <mxGeometry x="40" y="270" width="620" height="80" as="geometry" />
+    </mxCell>
+
+    <!-- Connectors -->
+    <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="6">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="9">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="10">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="11">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

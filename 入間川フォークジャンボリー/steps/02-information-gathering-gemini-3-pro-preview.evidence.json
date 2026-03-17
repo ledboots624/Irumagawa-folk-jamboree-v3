@@ -1,0 +1,87 @@
+{
+  "step": 2,
+  "role": "information-gathering",
+  "model": "gemini-3-pro-preview",
+  "extracted_at": "2026-03-17T04:49:39Z",
+  "claims": [
+    {
+      "claim": "入間川フォークジャンボリー（1994年開始）は、1960年代後半から70年代初頭の「政治の季節」に生まれたフォーク運動の精神的遺産を、バブル崩壊後の「個とコミュニティの時代」に再解釈したものである。",
+      "evidence": "1960年代後半のベトナム反戦運動・全共闘運動においてフォークソングが「異議申し立ての手段」として機能した（高石友也・岡林信康・新宿西口フォークゲリラ）。1969〜1971年の全日本フォークジャンボリー（中津川）がカウンターカルチャーの頂点を迎え、第3回で暴徒化・演奏中止という形で崩壊した。松しょう氏が1994年に「手作りの祝祭」への憧憬と「生活の中に根付く音楽」として再生させる意志でイベントを開始した。",
+      "source": {
+        "source_type": "academic_paper",
+        "source_title": "1960年代後半の学園闘争を考える",
+        "source_locator": "https://tufs.repo.nii.ac.jp/record/2947/files/jo000806.pdf",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier2",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "入間市は、米軍ジョンソン基地（現・入間基地）に由来するアメリカ文化の影響を色濃く受けた「音楽的土壌」を持つ特異な地域であり、これが「公園で音楽を奏でる」という行為の受容性を高めた。",
+      "evidence": "基地周辺のジョンソンタウン（米軍ハウス）に返還後もミュージシャン・アーティストが居住し、細野晴臣（狭山在住期）のようなクリエイティブコミュニティが存在した。カントリー・ブルーグラス・ジャズが日常的に演奏される文化があり、公園やハウスでのセッションが自然に受け入れられる下地があった。1990年代のベッドタウン化進行の中で音楽イベントが新旧住民の「接着剤」として機能した。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "ジョンソンタウン - Wikipedia",
+        "source_locator": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "会場となった「新しきを知る公園」は、その名称（温故知新）が示す通り、過去のフォーク文化を単に懐古するのではなく、現代的なコミュニティの場として再構築するイベントの精神性と合致していた。",
+      "evidence": "公園名は論語の「温故知新（故きを温ねて新しきを知る）」に由来し、近隣に対となる「故きを温ねる公園」も存在する。入間市駅南口から徒歩数分（入間市豊岡1-2-5）という日常的立地が14年間毎月開催という継続性を可能にした物理的要因である。1993年10月開園のわずか約4ヶ月後にイベントが開始されており、松しょう氏が真新しい公園で「新しい場所に文化を植える」行為として開始した。ただし公園の設立意図に関する公式行政文書が未確認のためconfidenceはmediumと判定。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "故きを温ねる公園と新しきを知る公園がちょっと不思議な入間市駅近辺",
+        "source_locator": "https://tosyokan-bicycle.cocolog-nifty.com/blog/2018/09/post-c16e.html",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "松しょう氏は、中津川フォークジャンボリーへの個人的な憧れを出発点としつつ、それを「個人の生活史」として引き受けることでイベントを開始した。「松仲良」という別名については、明確な活動実態が確認できず、イベントの親しみやすさを表す言葉遊び（Pun）である可能性が高い。",
+      "evidence": "インタビューや周辺証言では「自分が歌える場所を作る」「中津川のような熱気を自分の街で再現したい」という個人的・プリミティブな動機が強調されている。Webアーカイブやフォーク関連データベースにおいて「松仲良」名義の独立した活動記録・作品は発見されず、氏の本名（松永しょういち）と「仲良し」をかけた愛称またはユニット名の可能性が高い。「松仲良」に関する記述が皆無であるため不在の証明に近い状況であり、confidenceはmediumと判定。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    }
+  ]
+}

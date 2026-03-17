@@ -1,0 +1,257 @@
+{
+  "generated_at": "2026-03-17T06:00:36Z",
+  "generator": "AI Research Agent v2.5.0",
+  "total_sources": 11,
+  "tier_summary": {
+    "tier1": 0,
+    "tier2": 1,
+    "tier3": 4,
+    "tier4": 6
+  },
+  "primary_source_count": 5,
+  "sources": [
+    {
+      "id": "SRC-001",
+      "source_type": "academic_paper",
+      "title": "1960年代後半の学園闘争を考える",
+      "locator": "https://tufs.repo.nii.ac.jp/record/2947/files/jo000806.pdf",
+      "url": "https://tufs.repo.nii.ac.jp/record/2947/files/jo000806.pdf",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier2",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "入間川フォークジャンボリー（1994年開始）は、1960年代後半から70年代初頭の「政治の季節」に生まれたフォーク運動の精神的遺産を、バブル崩壊後の「個とコミュニティの時代」に再解釈したものである。"
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "source_type": "official_document",
+      "title": "2026.3/15 (日) おこめx松しょう、Jomon Heads＠入間川Zoi Meet Up",
+      "locator": "https://matsu-sho.net/archives/641",
+      "url": "https://matsu-sho.net/archives/641",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "1:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "入間川フォークジャンボリーという名称は使用していないものの、松しょう氏は2026年現在も「同じ場所」「同じ精神」で活動を継続している。"
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "source_type": "unknown",
+      "title": "Web検索・フォーク音楽関連データベース（複数）の不在確認",
+      "locator": "unknown",
+      "url": null,
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "「松仲良」は独立した活動体としての実態を確認できない。松しょう氏の名前と「仲良し」を掛け合わせた言葉遊び的なニックネーム、あるいはコミュニティ参加者とのユニット名・場内愛称として使用された可能性が最も..."
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "source_type": "community_data",
+      "title": "ジョンソンタウン - Wikipedia",
+      "locator": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "入間市は、米軍ジョンソン基地（現・入間基地）に由来するアメリカ文化の影響を色濃く受けた「音楽的土壌」を持つ特異な地域であり、これが「公園で音楽を奏でる」という行為の受容性を高めた。"
+      ]
+    },
+    {
+      "id": "SRC-005",
+      "source_type": "community_data",
+      "title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+      "locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+      "url": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "not_stated",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 14,
+      "referenced_by": [
+        "1:information-gathering:gemini-3-pro-preview",
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "1998年3月（第50回）より開催頻度を毎月から「偶数月（2月を除く）」に変更し、持続可能な運営体制へシフトした。",
+        "イベント会場「新しきを知る公園」（入間市駅そば）は1993年10月に開設されたばかりの公園であった。",
+        "ニュースレター「いるじゃんタイムス」が毎回発行され、単なるライブイベントを超えたコミュニティの結束（帰属意識）を生み出した。",
+        "入間川フォークジャンボリーが14年・100回継続できた最大の要因は、「松しょう氏への個人崇拝」ではなく、「役割の分散と委譲によるシステム化」にあった。",
+        "入間川フォークジャンボリーの精神は2008年の終了後も「入間サウンドヘヴン」等の後継イベントや2026年現在の松しょう氏の活動に継承されており、単なる懐古的イベントではなく現在進行形の地域文化資産とし...",
+        "入間川フォークジャンボリーは2008年8月、第100回記念開催をもって終了した。終了は松しょう氏の「区切りをつける」という意向が反映されたものである。",
+        "入間川フォークジャンボリーは、松しょう氏の一人ライブという極めて個人的・即興的な行為から始まった。その場所は開設間もない公共空間であり、「誰もいない場所に文化を植える」という象徴的な出発点だった。",
+        "入間川フォークジャンボリーは一度だけ所沢航空記念公園で開催された例外を除き、一貫して「新しきを知る公園」で開催された。",
+        "入間川フォークジャンボリーは埼玉県入間市で1994年から2008年まで14年間・計100回にわたり開催された。",
+        "松しょう氏の「一人の場」は急速に「みんなの場」へと変貌した。その転換点は、ゆっこらんど氏（本名：鈴木敬子）が実行委員長を引き受けたことであり、運営の実務的基盤が整備された。",
+        "松しょう氏のコミュニティ形成における最大の才能は「始めること」と「委ねること」の絶妙なバランスにある。自ら種を植えながら、育てる作業を他者に手渡すことで、イベントが「松しょう氏のもの」から「地域のもの...",
+        "松しょう氏を中心とした求心力と実行委員会（ゆっこらんど、こうすけ、ヒロウエキ、たっちゃん等）の遠心力がバランスよく機能した人的ネットワーク構造が14年間の長期継続を支えた。",
+        "第100回という完璧な区切りでの終了は、偶然ではなく松しょう氏の意図的な「物語の完結」であった。終了を「失敗」や「終わり」ではなく「完成」として演出した点に、イベント記録者としての松しょう氏の美学が表...",
+        "第50回という節目に、持続可能性を優先した「減速」という意思決定が行われた。これは「熱量の燃え尽き」ではなく、「長く続けるための合理的なリデザイン」であり、その後10年の継続を可能にした。"
+      ]
+    },
+    {
+      "id": "SRC-006",
+      "source_type": "community_data",
+      "title": "入間サウンドヘヴンのあゆみ",
+      "locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+      "url": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": true,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "松しょう氏は、中津川フォークジャンボリーへの個人的な憧れを出発点としつつ、それを「個人の生活史」として引き受けることでイベントを開始した。「松仲良」という別名については、明確な活動実態が確認できず、イ..."
+      ]
+    },
+    {
+      "id": "SRC-007",
+      "source_type": "community_data",
+      "title": "全日本フォークジャンボリー - Wikipedia",
+      "locator": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "入間川フォークジャンボリーは、日本のフォーク文化史において「都市型・公園型・月例型・継続優先型」という独自モデルを確立した草の根イベントであり、その「第100回完結」という形式は後世への文化遺産として..."
+      ]
+    },
+    {
+      "id": "SRC-008",
+      "source_type": "community_data",
+      "title": "故きを温ねる公園と新しきを知る公園がちょっと不思議な入間市駅近辺",
+      "locator": "https://tosyokan-bicycle.cocolog-nifty.com/blog/2018/09/post-c16e.html",
+      "url": "https://tosyokan-bicycle.cocolog-nifty.com/blog/2018/09/post-c16e.html",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": false,
+      "community_score": {
+        "discussion_age": "unknown",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 1,
+      "referenced_by": [
+        "2:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "会場となった「新しきを知る公園」は、その名称（温故知新）が示す通り、過去のフォーク文化を単に懐古するのではなく、現代的なコミュニティの場として再構築するイベントの精神性と合致していた。"
+      ]
+    },
+    {
+      "id": "SRC-009",
+      "source_type": "official_document",
+      "title": "松しょうホームページ",
+      "locator": "https://matsu-sho.net/",
+      "url": "https://matsu-sho.net/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "松しょう氏のアーティストとしての本質は「完成された作品を届ける演者」ではなく、「その場で生まれる音楽に参加者を引き込む触媒（カタリスト）」としての側面にある。"
+      ]
+    },
+    {
+      "id": "SRC-010",
+      "source_type": "community_data",
+      "title": "松しょう（公認?） ホームページ",
+      "locator": "https://matsu-sho.net/",
+      "url": "https://matsu-sho.net/",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier4",
+      "primary_source": true,
+      "community_score": {
+        "discussion_age": "not_stated",
+        "participant_count": 0,
+        "expert_presence": false,
+        "reproducibility": false
+      },
+      "reference_count": 2,
+      "referenced_by": [
+        "1:information-gathering:gemini-3-pro-preview"
+      ],
+      "claim_summaries": [
+        "松しょう氏は1994年第1回開催時、誰もいない公園でたった一人で歌い始めた。",
+        "松しょう氏は、強烈なカリスマ性で牽引するリーダーというよりは、自らが「最初の観客兼演者」となることで場を作り出し、そこに集う人々を巻き込んでいく「コミュニティ・ビルダー」としての側面が強い。"
+      ]
+    },
+    {
+      "id": "SRC-011",
+      "source_type": "official_document",
+      "title": "（私の知るところの）松しょうプロフィール",
+      "locator": "https://matsu-sho.net/prof",
+      "url": "https://matsu-sho.net/prof",
+      "access_date": "2026-03-17",
+      "reliability_tier": "tier3",
+      "primary_source": true,
+      "community_score": null,
+      "reference_count": 1,
+      "referenced_by": [
+        "3:deep-analysis:claude-sonnet-4.6"
+      ],
+      "claim_summaries": [
+        "松しょう氏は「記録を自ら書く人」というよりも「記録が生まれる環境を設計した人」であり、「いるじゃんタイムス」という媒体の創出と、第100回という「完璧な数字での終幕」という二つの行為が、その証拠となる..."
+      ]
+    }
+  ]
+}

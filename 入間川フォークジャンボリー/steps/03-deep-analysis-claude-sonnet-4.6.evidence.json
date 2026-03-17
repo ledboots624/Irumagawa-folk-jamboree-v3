@@ -1,0 +1,203 @@
+{
+  "step": 3,
+  "role": "deep-analysis",
+  "model": "claude-sonnet-4.6",
+  "extracted_at": "2026-03-17T04:56:36Z",
+  "claims": [
+    {
+      "claim": "入間川フォークジャンボリーは、松しょう氏の一人ライブという極めて個人的・即興的な行為から始まった。その場所は開設間もない公共空間であり、「誰もいない場所に文化を植える」という象徴的な出発点だった。",
+      "evidence": "1994年2月、「新しきを知る公園」野外ステージにて第1回開催。松しょう氏の単独ステージ。公園開設（1993年10月）からわずか約4ヶ月後という早期スタート。「松しょう氏が1人で歌い始めた」という原点エピソードは後の関係者記録で繰り返し言及される。「らいぶかふぇ『まつ』（狭山市）」の初代店長としての活動とリンクしている可能性が高い（推定）。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "high",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "松しょう氏の「一人の場」は急速に「みんなの場」へと変貌した。その転換点は、ゆっこらんど氏（本名：鈴木敬子）が実行委員長を引き受けたことであり、運営の実務的基盤が整備された。",
+      "evidence": "松しょう氏の依頼を受け、ゆっこらんど氏（旧名：ロザリー）が実行委員長に就任し実行委員会が発足。「まちこ」氏が実行委員として参加。コミュニティ・ニュースレター「いるじゃんタイムス」をゆっこらんど氏・まちこ氏が毎回発行（出演者紹介・反省会報告・地域情報掲載）。飲食ブースの設置など「野外コミュニティ空間」として発展。毎回終演後に「反省会」（打ち上げ）を実施し参加者の横のつながりを醸成。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "第50回という節目に、持続可能性を優先した「減速」という意思決定が行われた。これは「熱量の燃え尽き」ではなく、「長く続けるための合理的なリデザイン」であり、その後10年の継続を可能にした。",
+      "evidence": "1998年3月7日（第50回）に開催頻度を「毎月」から「偶数月（2月除く）＝年5回」に変更。1998年10月に体制変更（柳澤英太郎氏が実行委員長に就任）。2007年末まで約9年間継続。2005年6月に雨天でもアウトドア用品持ち寄り強行開催という参加者の強い愛着を示す記録あり。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "第100回という完璧な区切りでの終了は、偶然ではなく松しょう氏の意図的な「物語の完結」であった。終了を「失敗」や「終わり」ではなく「完成」として演出した点に、イベント記録者としての松しょう氏の美学が表れている。",
+      "evidence": "2008年8月（第100回）に松しょう氏の意向により「入間川フォークジャンボリー」として幕を閉じる。第100回記念Tシャツを制作（記念品として参加者に残す）。2008年10月に後継イベント「入間サウンドヘヴン」がこうすけ氏・ゆっこらんど氏・たっちゃん氏らで発足し場所・精神をほぼそのまま継承。松しょう氏自身は運営の第一線からは退いた形だが出演者として継続的に関与（推定）。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "松しょう氏のアーティストとしての本質は「完成された作品を届ける演者」ではなく、「その場で生まれる音楽に参加者を引き込む触媒（カタリスト）」としての側面にある。",
+      "evidence": "ブルース・フォーク・旅情歌を基調とするスタイル。ライブの定番口上「今夜も夜汽車に乗って、南千住からやってまいりました」が都市の下町情緒と旅を象徴する世界観を体現。ソロ活動のほかJomon Heads（縄文・地球・自然テーマ）・ボニーラ楽団（バンド形式）など複数プロジェクトで表現の幅を持つ。Spotify・Apple Musicでの配信により地域を超えた発信が確認。ボニーラ楽団では都内（銀座・六本木等）でも活動しフォークにとどまらないジャンル横断的な活動も確認。音楽スタイルは多方面から一致した記述あり（音源への直接アクセスは未実施）。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "松しょうホームページ",
+        "source_locator": "https://matsu-sho.net/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "松しょう氏のコミュニティ形成における最大の才能は「始めること」と「委ねること」の絶妙なバランスにある。自ら種を植えながら、育てる作業を他者に手渡すことで、イベントが「松しょう氏のもの」から「地域のもの」へと転化した。",
+      "evidence": "1994年2月に一人で公園でギターを弾き始めた「許可を待たない」文化実践。入間市駅から徒歩数分の日常的な場所を選び「ちょっと寄ってみようか」という低い敷居を設計。実行委員会の組成は松しょう氏の発案だが実行委員長職を自ら担わず最初からゆっこらんど氏に委ねた。以降、柳澤英太郎氏→こうすけ氏と実行委員長が2度交代してもイベントは存続（「松しょう氏への個人的忠誠ではなくイベント文化への共鳴」を示す）。らいぶかふぇ「まつ」（狭山市）がイベント準備・交流拠点として機能した可能性が高い（推定）。毎回の「反省会」が楽しさを引き延ばすとともに参加者が運営者に近づける場として機能。なお、「委ねる」という意図の解釈は筆者の分析であり、一次資料での直接言及は未確認。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "松しょう氏は「記録を自ら書く人」というよりも「記録が生まれる環境を設計した人」であり、「いるじゃんタイムス」という媒体の創出と、第100回という「完璧な数字での終幕」という二つの行為が、その証拠となる。",
+      "evidence": "毎回発行されたニュースレター「いるじゃんタイムス」は出演者・参加者の「記録」であると同時に「コミュニティの鏡」として機能（発行責任者はゆっこらんど氏・まちこ氏だが制度設計は松しょう氏の意向による）。任意のタイミングではなく「100」という区切りの良い数字での終了はイベントを「歴史」として文化的に完結させようとする意識を示す。記念Tシャツの制作も「記録を残す」意図の一環と解釈可能。ウェブサイト「matsu-sho.net」の2026年現在も継続するデジタル発信。「（私の知るところの）松しょうプロフィール」というページタイトルに自己像への俯瞰的・批評的な距離感が読み取れる。ゆっこらんど氏によるアーカイブが最も詳細な記録となっている現状は「記録を他者に委ねた」結果でもある。なお、記録設計の「意図」は傍証からの解釈であり、本人の直接発言による裏付けが望ましい。",
+      "source": {
+        "source_type": "official_document",
+        "source_title": "（私の知るところの）松しょうプロフィール",
+        "source_locator": "https://matsu-sho.net/prof",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier3",
+        "primary_source": true,
+        "community_score": null
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "入間川フォークジャンボリーが14年・100回継続できた最大の要因は、「松しょう氏への個人崇拝」ではなく、「役割の分散と委譲によるシステム化」にあった。",
+      "evidence": "役割の分散：松しょう（精神的象徴）・ゆっこらんど（実務運営）・まちこ（記録）・柳澤/こうすけ（組織管理）という機能分担。いるじゃんタイムスが参加者の帰属感を定期的に強化し次回への期待を構造化。「新しきを知る公園」の一貫した使用が「ここに行けばある」という安心感を生成。第50回での開催頻度削減（毎月→偶数月）が燃え尽き症候群を防ぎ1998年以降の10年継続の礎となった。らいぶかふぇ「まつ」が年間を通じた関係者の交流・準備の場として機能（2010年閉店まで）。運営責任を「手放す」ことで後継者が育ち松しょう氏の引退後も自走する基盤が整った。なお、役割の「意図的設計」か「自然発生的進化」かの区別は一次証言なしに断定困難。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "入間サウンドヘヴンのあゆみ - ゆっこらんど official",
+        "source_locator": "https://rosalandrecord.jimdofree.com/profile-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%85%A5%E9%96%93%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%98%E3%83%B4%E3%83%B3%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": true,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "「松仲良」は独立した活動体としての実態を確認できない。松しょう氏の名前と「仲良し」を掛け合わせた言葉遊び的なニックネーム、あるいはコミュニティ参加者とのユニット名・場内愛称として使用された可能性が最も高い。",
+      "evidence": "Web上のフォーク関連データベース・音楽データベースに「松仲良」名義の独立した作品・ライブ記録は発見されていない（不在の証明）。「Matsu-Nakayoshi」と読む場合「松（まつ）」「仲良し」の組み合わせになりコミュニティの和やかさを示すキャラクター的表現として機能しうる。「いるじゃんタイムス」等の実物資料を確認することでこの別名の使用コンテクストが明らかになる可能性がある。",
+      "source": {
+        "source_type": "unknown",
+        "source_title": "Web検索・フォーク音楽関連データベース（複数）の不在確認",
+        "source_locator": "unknown",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": null
+      },
+      "confidence": "low",
+      "requirement_level": null,
+      "standard_references": []
+    },
+    {
+      "claim": "入間川フォークジャンボリーは、日本のフォーク文化史において「都市型・公園型・月例型・継続優先型」という独自モデルを確立した草の根イベントであり、その「第100回完結」という形式は後世への文化遺産として機能している。",
+      "evidence": "全日本フォークジャンボリー（中津川）との比較：期間（3回終了 vs 14年100回）、規模（数万人 vs 数十〜数百人規模）、政治性（反戦・カウンターカルチャー vs 地域コミュニティ醸成）、終わり方（暴動・混乱による強制終了 vs 発起人の意思による「完結」）、継承形態（なし vs 入間サウンドヘヴンへ実務継承）、場所（非日常的野外 vs 日常の延長の公園）。この対比は入間川フォークジャンボリーが中津川の「失敗から何かを学んだ」実践であることを示唆するが、松しょう氏が意識的にそう設計したか結果としてそうなったかは確認できていない（推定）。",
+      "source": {
+        "source_type": "community_data",
+        "source_title": "全日本フォークジャンボリー - Wikipedia",
+        "source_locator": "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC",
+        "access_date": "2026-03-17",
+        "reliability_tier": "tier4",
+        "primary_source": false,
+        "community_score": {
+          "discussion_age": "unknown",
+          "participant_count": 0,
+          "expert_presence": false,
+          "reproducibility": false
+        }
+      },
+      "confidence": "medium",
+      "requirement_level": null,
+      "standard_references": []
+    }
+  ]
+}

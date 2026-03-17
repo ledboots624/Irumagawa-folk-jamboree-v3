@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="draw.io">
+  <diagram id="irumagawa-folk-jamboree" name="Irumagawa Folk Jamboree Research">
+    <mxGraphModel background="#ffffff" dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- TITLE BAR -->
+        <mxCell id="title" value="入間川フォークジャンボリーの軌跡：発起人・松しょう氏と地域文化の14年" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d3748;strokeColor=none;fontColor=#ffffff;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- SECTION 1: PROTAGONIST & CONTEXT -->
+        <mxCell id="sec1_bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fafc;strokeColor=#a0aec0;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="760" height="140" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="matsu_sho" value="【発起人】松しょう (Matsu-sho)&#xa;本名：松永しょういち（漢字未確認）&#xa;「最初の観客兼演者」として開始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ebf4ff;strokeColor=#3182ce;fontColor=#2d3748;fontSize=14;fontStyle=1;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="340" height="100" as="geometry" />
+        </mxCell>
+
+        <mxCell id="caution" value="【⚠️ 人物同定の注意】&#xa;フォークグループ「がむがむ」の&#xa;「松永昭一」氏は別人&#xa;※情報の混同に注意" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5f5;strokeColor=#e53e3e;fontColor=#c53030;fontSize=12;fontStyle=1;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="340" height="100" as="geometry" />
+        </mxCell>
+
+        <!-- SECTION 2: TIMELINE & EVOLUTION -->
+        <mxCell id="start_1994" value="1994年2月 第1回開催&#xa;松しょう氏たった一人のステージ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fafc;strokeColor=#a0aec0;fontColor=#2d3748;fontSize=12;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="venue" value="【開催地】&#xa;入間市「新しきを知る公園」&#xa;生活に根ざした公共空間" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffff0;strokeColor=#d69e2e;fontColor=#744210;fontSize=12;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="philosophy" value="【思想的背景】&#xa;政治的動員よりも&#xa;「生活」と「継続」を重視" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffff0;strokeColor=#d69e2e;fontColor=#744210;fontSize=12;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="main_100times" value="【偉業】14年間で通算100回開催&#xa;行政・企業主導ではなく&#xa;手作りの市民イベントとして継続" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ebf4ff;strokeColor=#3182ce;strokeWidth=3;fontColor=#2d3748;fontSize=16;fontStyle=1;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="400" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="end_2008" value="2008年8月&#xa;第100回をもって終了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7fafc;strokeColor=#a0aec0;fontColor=#2d3748;fontSize=12;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- SECTION 3: LEGACY -->
+        <mxCell id="legacy_succession" value="【継承】入間サウンドヘヴン&#xa;ゆっこらんど氏らが精神を継承&#xa;現在も地域に根付く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff4;strokeColor=#38a169;fontColor=#22543d;fontSize=13;fontStyle=1;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="340" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="legacy_current" value="【現在】2026年3月15日&#xa;「新しきを知る公園」にて&#xa;松しょう氏ライブ開催" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff4;strokeColor=#38a169;fontColor=#22543d;fontSize=13;fontStyle=1;shadow=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="620" width="340" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- FOOTER -->
+        <mxCell id="footer" value="結論：一人の情熱が地域文化（フォーク）を育て、世代を超えて継承された稀有な事例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2d3748;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="760" height="40" as="geometry" />
+        </mxCell>
+
+        <!-- EDGES -->
+        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=2;strokeColor=#4a5568;" edge="1" parent="1" source="matsu_sho" target="start_1994">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e2" value="舞台" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=2;strokeColor=#a0aec0;fontSize=10;" edge="1" parent="1" source="venue" target="start_1994">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e3" value="精神" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=2;strokeColor=#a0aec0;fontSize=10;" edge="1" parent="1" source="philosophy" target="start_1994">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e4" value="継続" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=3;strokeColor=#3182ce;" edge="1" parent="1" source="start_1994" target="main_100times">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e5" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=3;strokeColor=#3182ce;" edge="1" parent="1" source="main_100times" target="end_2008">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e6" value="バトンタッチ" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=2;strokeColor=#38a169;" edge="1" parent="1" source="end_2008" target="legacy_succession">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e7" value="現役活動" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;html=1;strokeWidth=2;strokeColor=#38a169;" edge="1" parent="1" source="end_2008" target="legacy_current">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
