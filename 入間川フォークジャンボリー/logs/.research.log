@@ -151,3 +151,13 @@
 [2026-03-17 15:21:38 INFO] viewer.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/viewer.html
 [2026-03-17 15:21:38 INFO] gallery.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/gallery.html
 [2026-03-17 15:21:38 INFO] quality.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/quality.html
+[2026-03-19 14:07:54 INFO] === 静的サイト生成モード ===
+[2026-03-19 14:07:54 INFO] ログHTML生成中...
+[2026-03-19 14:07:57 INFO] ログHTML生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/logs/research-log.html
+[2026-03-19 14:07:57 INFO] CSSテーマ: nature (ネイチャー（葉っぱ＋アースカラー）)
+[2026-03-19 14:07:57 INFO] index.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/index.html
+[2026-03-19 14:07:57 INFO] presentation.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/presentation.html
+[2026-03-19 14:07:57 INFO] detail.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/detail.html
+[2026-03-19 14:07:57 INFO] verification.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/verification.html
+[2026-03-19 14:07:57 INFO] records.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/records.html
+[2026-03-19 14:07:57 INFO] viewer.html 生成完了: /Users/shige/work/test-claude/remote-test/public/Irumagawa-folk-jamboree-v3/入間川フォークジャンボリー/viewer.html

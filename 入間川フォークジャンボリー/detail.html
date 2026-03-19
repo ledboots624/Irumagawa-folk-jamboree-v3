@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>入間川フォークジャンボリー</title>
+<title>調査の詳細 - 入間川フォークジャンボリー</title>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: 'Noto Sans JP', 'Helvetica Neue', sans-serif; background: #f0f9f4; color: #2c3e50; line-height: 1.7; background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 5 Q20 20 30 35 Q40 20 30 5z' fill='none' stroke='rgba(39,174,96,0.04)' stroke-width='0.5'/%3E%3Cline x1='30' y1='5' x2='30' y2='35' stroke='rgba(39,174,96,0.03)' stroke-width='0.3'/%3E%3C/svg%3E"); }
@@ -101,41 +101,72 @@
 </style>
 </head>
 <body>
-<div class="hero">
-  <h1>入間川フォークジャンボリー</h1>
-  <p>入間川フォークジャンボリーの歴史を発起人・松しょう氏を軸に網羅的に調査し、関係者・ファンと共有できる記録として体系化する</p>
-  <div class="meta">
-    <span>ステップ数: 5</span>
-    <span>使用モデル: claude-opus-4.6, claude-sonnet-4.6, gemini-3-pro-preview</span>
-  </div>
+<div class="header">
+  <a href="./index.html" class="back-btn">← トップへ</a>
+  <h1>調査の詳細</h1>
 </div>
 <div class="container">
   <div class="section">
-    <div class="about-box">
-      <h3>はじめに</h3>
-      <p>本資料は <strong>AI Research Agent</strong> により自動生成されたリサーチ結果です。
-      複数のAIモデルがリレー方式で調査・分析・検証を行い、エビデンスベースの構造化された調査資料を生成しています。</p>
-      <ul>
-        <li><strong>AIの学習データに基づく調査です</strong> — 情報の正確性は保証されません</li>
-        <li><strong>確信度（High/Medium/Low）を参照してください</strong> — Low の情報は特に裏取りが必要です</li>
-        <li><strong>再検証結果を確認してください</strong> — 調査結果の弱点・未検証事項が明示されています</li>
-        <li><strong>最終判断は読者が行ってください</strong> — 本資料は判断材料を提供するものです</li>
-      </ul>
+    <div class="section-title">調査プロセス</div>
+    <div class="section-subtitle">各AIモデルが順番に調査・分析・検証を行いました</div>
+
+            <div class="step-card">
+              <div class="step-number">Step 1</div>
+              <div class="step-info">
+                <div class="step-role">情報収集</div>
+                <div class="step-model">gemini-3-pro-preview <span class="step-tag">⏱ 5m15s</span><span class="step-tag">8 KB</span></div>
+                <p class="step-summary">入間川フォークジャンボリーと松しょう氏に関する包括的調査報告  1. 調査概要と結論 ...</p>
+                <a href="./viewer.html?file=steps/01-information-gathering-gemini-3-pro-preview.md" class="step-link">この分析を読む</a>
+              </div>
+            </div>
+            <div class="step-card">
+              <div class="step-number">Step 2</div>
+              <div class="step-info">
+                <div class="step-role">情報収集</div>
+                <div class="step-model">gemini-3-pro-preview <span class="step-tag">⏱ 3m35s</span><span class="step-tag">8 KB</span></div>
+                <p class="step-summary">入間川フォークジャンボリーの歴史的・地域的背景調査報告  1. 1960-70年代 日本フォーク運動と学生運動の潮流 ...</p>
+                <a href="./viewer.html?file=steps/02-information-gathering-gemini-3-pro-preview.md" class="step-link">この分析を読む</a>
+              </div>
+            </div>
+            <div class="step-card">
+              <div class="step-number">Step 3</div>
+              <div class="step-info">
+                <div class="step-role">深層分析</div>
+                <div class="step-model">claude-sonnet-4.6 <span class="step-tag">⏱ 8m21s</span><span class="step-tag">28 KB</span></div>
+                <p class="step-summary">これで十分な情報が集まりました。分析を記述します。  --- ...</p>
+                <a href="./viewer.html?file=steps/03-deep-analysis-claude-sonnet-4.6.md" class="step-link">この分析を読む</a>
+              </div>
+            </div>
+            <div class="step-card">
+              <div class="step-number">Step 4</div>
+              <div class="step-info">
+                <div class="step-role">再検証</div>
+                <div class="step-model">claude-sonnet-4.6 <span class="step-tag">⏱ 3m20s</span><span class="step-tag">20 KB</span></div>
+                <p class="step-summary">Critic Review（批判的レビュー）  --- ...</p>
+                <a href="./viewer.html?file=steps/04-critic-review-claude-sonnet-4.6.md" class="step-link">この分析を読む</a>
+              </div>
+            </div>
+            <div class="step-card">
+              <div class="step-number">Step 5</div>
+              <div class="step-info">
+                <div class="step-role">統合レビュー</div>
+                <div class="step-model">claude-opus-4.6 <span class="step-tag">39 KB</span></div>
+                <p class="step-summary">統合レビュー  Executive Summary（総括） ...</p>
+                <a href="./viewer.html?file=steps/05-integration-review-claude-opus-4.6.md" class="step-link">この分析を読む</a>
+              </div>
+            </div>
+    <div style="margin-top: 40px;">
+      <div class="section-title" style="font-size: 1.2em;">調査の流れ</div>
+      <div class="about-box" style="border-left-color: #4299e1; padding: 20px;">
+        <p style="font-size: 0.9em; color: #718096; margin-bottom: 16px;">各ステップで使用されたAIモデルと処理の流れを可視化しています</p>
+        <img src="./quality/flow.png" alt="調査フローチャート" style="max-width: 600px; width: 100%; height: auto; cursor: pointer;" onclick="openLightbox(this)">
+      </div>
     </div>
-    <div class="about-box" style="border-left-color: #1abc9c;">
-      <h3>調査の前提条件</h3>
-      <p>入間川フォークジャンボリーの歴史を発起人・松しょう氏を軸に網羅的に調査し、関係者・ファンと共有できる記録として体系化する</p>
-    </div>
-    <div class="section-title">まとめ</div>
-    <div style="text-align: center; margin-top: 10px; margin-bottom: 40px;">
-      <a href="./viewer.html?file=FINAL_REPORT.md" style="display: inline-block; background: #1e8449; color: #fff; padding: 14px 36px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1em;">調査のまとめを読む</a>
-      <p style="margin-top: 8px; font-size: 0.85em; color: #85929e;">全調査結果をまとめた詳細レポートです</p>
-    </div>
-    <div class="nav-grid">
-      <a href="./presentation.html" class="nav-card" style="background: #1e8449;">調査ハイライト<div class="nav-desc">スライド・図解・チャート</div></a>
-      <a href="./verification.html" class="nav-card" style="background: #27ae60;">再検証結果<div class="nav-desc">確信度・情報源の信頼性</div></a>
-      <a href="./detail.html" class="nav-card" style="background: #27ae60;">調査の詳細<div class="nav-desc">調査プロセス・追加調査</div></a>
-      <a href="./records.html" class="nav-card" style="background: #85929e;">調査記録<div class="nav-desc">フローチャート・詳細ログ</div></a>
+    <div style="margin-top: 30px;">
+      <div class="about-box" style="border-left-color: #667eea;">
+        <h3>使用モデル</h3>
+        <p>claude-opus-4.6, claude-sonnet-4.6, gemini-3-pro-preview</p>
+      </div>
     </div>
   </div>
 </div>
