@@ -68,14 +68,15 @@
   .lightbox img { max-width: 95%; max-height: 95%; object-fit: contain; }
   @media (max-width: 768px) { .hero { padding: 40px 20px; } .hero h1 { font-size: 1.6em; } .visual-grid { grid-template-columns: 1fr; } .nav-grid { grid-template-columns: 1fr; } .gallery-grid { grid-template-columns: 1fr; } .quality-grid { grid-template-columns: 1fr; } .header { padding: 16px 20px; } }
   /* Theme decoration */
-    .hero { padding-bottom: 80px; }
+    .hero { padding-bottom: 20px; position: relative; }
+  .hero .meta { margin-bottom: 60px; }
   .hero::before {
     content: '';
     position: absolute;
-    bottom: 10px;
+    bottom: 8px;
     left: 20px;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 120'%3E%3Crect x='45' y='65' width='10' height='45' rx='3' fill='%23795548'/%3E%3Cellipse cx='50' cy='55' rx='28' ry='22' fill='%231e8449'/%3E%3Cellipse cx='35' cy='45' rx='18' ry='16' fill='%2327ae60'/%3E%3Cellipse cx='65' cy='45' rx='18' ry='16' fill='%2327ae60'/%3E%3Cellipse cx='50' cy='35' rx='15' ry='14' fill='%232ecc71'/%3E%3Ccircle cx='38' cy='50' r='3' fill='%23e74c3c'/%3E%3Ccircle cx='58' cy='42' r='2.5' fill='%23f39c12'/%3E%3Ccircle cx='48' cy='58' r='2' fill='%23e74c3c'/%3E%3C/svg%3E") no-repeat center/contain;
     opacity: 1;
     pointer-events: none;
@@ -83,10 +84,10 @@
   .hero::after {
     content: '';
     position: absolute;
-    bottom: 10px;
+    bottom: 8px;
     right: 20px;
-    width: 55px;
-    height: 55px;
+    width: 45px;
+    height: 45px;
     background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cellipse cx='50' cy='75' rx='35' ry='12' fill='%23f39c12'/%3E%3Cellipse cx='50' cy='72' rx='30' ry='10' fill='%23e67e22'/%3E%3Ccircle cx='42' cy='52' r='22' fill='%23a0522d'/%3E%3Ccircle cx='42' cy='52' r='17' fill='%23cd853f'/%3E%3Ccircle cx='42' cy='52' r='12' fill='%23a0522d'/%3E%3Ccircle cx='42' cy='52' r='7' fill='%23cd853f'/%3E%3Ccircle cx='70' cy='65' r='8' fill='%23f39c12'/%3E%3Ccircle cx='70' cy='65' r='5' fill='%23e67e22'/%3E%3Cline x1='66' y1='55' x2='62' y2='45' stroke='%23a0522d' stroke-width='2.5' stroke-linecap='round'/%3E%3Cline x1='74' y1='55' x2='78' y2='45' stroke='%23a0522d' stroke-width='2.5' stroke-linecap='round'/%3E%3Ccircle cx='61' cy='44' r='2.5' fill='%232d3436'/%3E%3Ccircle cx='79' cy='44' r='2.5' fill='%232d3436'/%3E%3Ccircle cx='70' cy='68' r='1.5' fill='%232d3436'/%3E%3Cpath d='M67 71 Q70 73 73 71' stroke='%232d3436' stroke-width='1.5' fill='none'/%3E%3C/svg%3E") no-repeat center/contain;
     opacity: 1;
     pointer-events: none;
